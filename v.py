@@ -1,5 +1,6 @@
 def linux():
 	#print('python')
 
-linux():
+linux()
+#contains no issue
 
