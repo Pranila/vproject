@@ -1,5 +1,5 @@
 def linux():
-	//print("python")
+	#print("python")
 
 linux():
 
